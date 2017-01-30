@@ -1,4 +1,4 @@
 <?php
-class Stand_bookings_model extends CI_Model{
+class Stand_bookings_model extends CI_Model {
 	
 }

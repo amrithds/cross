@@ -7,7 +7,9 @@ class Company extends Api_Controller {
 	
 	/**
 	 * get all company list
-	 * @param string $id (Company id)
+	 * 
+	 * @param string $id
+	 *        	(Company id)
 	 */
 	public function index($id = NULL) {
 		$this->load->library ( 'form_validation' );

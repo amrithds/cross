@@ -1,4 +1,3 @@
 <?php
-class Auditoriums_model extends CI_Model{
-	
+class Auditoriums_model extends CI_Model {
 }
